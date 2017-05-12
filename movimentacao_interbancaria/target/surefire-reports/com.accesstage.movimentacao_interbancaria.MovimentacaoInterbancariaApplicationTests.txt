@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.accesstage.movimentacao_interbancaria.MovimentacaoInterbancariaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.896 sec - in com.accesstage.movimentacao_interbancaria.MovimentacaoInterbancariaApplicationTests
